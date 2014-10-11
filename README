@@ -1,0 +1,27 @@
+safecolors
+	safecolors is small ugly hack of fl_showcolormap. It shows
+	palette of websafe colors, allow user choose color, displace
+	its RGB number and place it into CUT_BUFFER.
+	
+AUTHOR
+	Petr Sturc (sturc@fzu.cz)
+	
+	Please mail me any suggestions / code improvements.
+	
+HOMEPAGE
+	http://www.fzu.cz/~sturc/c/safecolors.html
+	
+LICENSE
+	source code is available under the GNU public license.
+
+INSTALL
+	edit the Makefile so it points to the fltk directory
+	and run make
+
+USAGE
+	put safecolors into your path. Start it. Run your favourite HTML
+	editor (vim, insn't it?). If you need, choose color from 
+	palette and in the editor press mouse button 2. Color code
+	would appear.
+
+	
