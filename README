@@ -9,7 +9,8 @@ AUTHOR
 	Please mail me any suggestions / code improvements.
 	
 HOMEPAGE
-	http://www.fzu.cz/~sturc/c/safecolors.html
+	http://petrst.bitbucket.org/safecolors.html
+        (originally http://www.fzu.cz/~sturc/c/safecolors.html)
 	
 LICENSE
 	source code is available under the GNU public license.
@@ -23,5 +24,3 @@ USAGE
 	editor (vim, insn't it?). If you need, choose color from 
 	palette and in the editor press mouse button 2. Color code
 	would appear.
-
-	
